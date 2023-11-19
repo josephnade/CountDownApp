@@ -28,7 +28,8 @@ This Android application is a CountDownTimer that allows the user to input a dur
 
 ## Screenshots
 
-![CountDownTimer App Screenshot](readme-assets/ss.png)
+<img src="readme-assets/ss.png" alt="CountDownTimer App Screenshot" style="max-width: 600px; max-height: 300px;">
+
 
 ## Technologies
 
